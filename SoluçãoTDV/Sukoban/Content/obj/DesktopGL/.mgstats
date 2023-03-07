@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"P:/jogos/tdvgit/TDV/SoluçãoTDV/Sukoban/Content/Character4.png","P:/jogos/tdvgit/TDV/SoluçãoTDV/Sukoban/Content/bin/DesktopGL/Character4.xnb","TextureProcessor","Texture2DContent",1668,8817,1,5195942
+"P:/jogos/tdvgit/TDV/SoluçãoTDV/Sukoban/Content/CrateDark_Brown.png","P:/jogos/tdvgit/TDV/SoluçãoTDV/Sukoban/Content/bin/DesktopGL/CrateDark_Brown.xnb","TextureProcessor","Texture2DContent",1089,16469,0,0030338
+"P:/jogos/tdvgit/TDV/SoluçãoTDV/Sukoban/Content/EndPoint_Blue.png","P:/jogos/tdvgit/TDV/SoluçãoTDV/Sukoban/Content/bin/DesktopGL/EndPoint_Blue.xnb","TextureProcessor","Texture2DContent",592,4181,0,0027203
+"P:/jogos/tdvgit/TDV/SoluçãoTDV/Sukoban/Content/File.spritefont","P:/jogos/tdvgit/TDV/SoluçãoTDV/Sukoban/Content/bin/DesktopGL/File.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0,0967082
+"P:/jogos/tdvgit/TDV/SoluçãoTDV/Sukoban/Content/WallRound_Brown.png","P:/jogos/tdvgit/TDV/SoluçãoTDV/Sukoban/Content/bin/DesktopGL/WallRound_Brown.xnb","TextureProcessor","Texture2DContent",1549,16469,0,0027172

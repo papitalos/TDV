@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>P:/jogos/tdvgit/TDV/SoluçãoTDV/Sukoban/Content/Character4.png</File>
+    <File>P:/jogos/tdvgit/TDV/SoluçãoTDV/Sukoban/Content/CrateDark_Brown.png</File>
+    <File>P:/jogos/tdvgit/TDV/SoluçãoTDV/Sukoban/Content/EndPoint_Blue.png</File>
+    <File>P:/jogos/tdvgit/TDV/SoluçãoTDV/Sukoban/Content/File.spritefont</File>
+    <File>P:/jogos/tdvgit/TDV/SoluçãoTDV/Sukoban/Content/WallRound_Brown.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

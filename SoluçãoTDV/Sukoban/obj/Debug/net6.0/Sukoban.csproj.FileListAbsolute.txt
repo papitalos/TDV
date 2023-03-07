@@ -23,3 +23,9 @@ P:\jogos\tdvgit\TDV\SoluçãoTDV\Sukoban\obj\Debug\net6.0\refint\Sukoban.dll
 P:\jogos\tdvgit\TDV\SoluçãoTDV\Sukoban\obj\Debug\net6.0\Sukoban.pdb
 P:\jogos\tdvgit\TDV\SoluçãoTDV\Sukoban\obj\Debug\net6.0\Sukoban.genruntimeconfig.cache
 P:\jogos\tdvgit\TDV\SoluçãoTDV\Sukoban\obj\Debug\net6.0\ref\Sukoban.dll
+P:\jogos\tdvgit\TDV\SoluçãoTDV\Sukoban\bin\Debug\net6.0\Content\File.xnb
+P:\jogos\tdvgit\TDV\SoluçãoTDV\Sukoban\bin\Debug\net6.0\Content\level1.txt
+P:\jogos\tdvgit\TDV\SoluçãoTDV\Sukoban\bin\Debug\net6.0\Content\Character4.xnb
+P:\jogos\tdvgit\TDV\SoluçãoTDV\Sukoban\bin\Debug\net6.0\Content\CrateDark_Brown.xnb
+P:\jogos\tdvgit\TDV\SoluçãoTDV\Sukoban\bin\Debug\net6.0\Content\EndPoint_Blue.xnb
+P:\jogos\tdvgit\TDV\SoluçãoTDV\Sukoban\bin\Debug\net6.0\Content\WallRound_Brown.xnb
