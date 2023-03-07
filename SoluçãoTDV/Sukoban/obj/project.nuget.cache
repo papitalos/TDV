@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "D/Z69bN8idge6GSXzFNh+KcVymWf06VLsvPUQlawjm9xVWvsapPFGIFz4fZKUxyqu2SN+YSDQ/kjKe0M2azfUw==",
+  "success": true,
+  "projectFilePath": "P:\\jogos\\tdvgit\\TDV\\SoluçãoTDV\\Sukoban\\Sukoban.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\italo\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\italo\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
